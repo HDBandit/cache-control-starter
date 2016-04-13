@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hdbandit.cache_control_starter.CacheControlAutoConfiguration
